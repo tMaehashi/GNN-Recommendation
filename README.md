@@ -1,5 +1,4 @@
-# GNN-Recommendation
-（**準備中**）  
+# GNN-Recommendation 
 GNNベースの推薦システムを作ってみます．モデルは，KGAT[1]などを使用します．  
 データセット：MovieLens 1M Dataset（https://grouplens.org/datasets/movielens/1m/ ）
 
